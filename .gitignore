@@ -68,3 +68,5 @@ crashlytics-build.properties
 # JetBrains
 /.idea/
 
+# My unitypackage is not controlled by Git, namely Japan_Tokyo_Nishishinjuku.unitypackage
+Resources/
